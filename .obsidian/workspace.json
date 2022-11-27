@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "797e50202811b5e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6c8d5e85664f06c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "188987024f4e61ff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a803d6a1c162d1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f1e24f552575344",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb0a42e1be252a3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f24e6dcd2c66012f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"s not a function \"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08779d60688ace78",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2fc8f4b53447a017",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c283b719e7ccd49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d233ccea1144f30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "112187588f8a5197",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36a286d1bb11a248",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ae5d174c8434b228",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cb0a42e1be252a3c",
+  "lastOpenFiles": [
+    "Task Management/2022/11/week 4/Sun.md",
+    "Readme.md",
+    "Task Management/TODO/Learning TODO.md",
+    "Task Management/Goal/Untitled.md",
+    "Dialy/2022-11-27.md",
+    "2022-11-27.md",
+    "Task Management/Untitled 1.md",
+    "Rust/Rust Demo.md",
+    "Network For Rust Demo.md",
+    "Network Protoral.md"
+  ]
+}
