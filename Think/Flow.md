@@ -7,3 +7,13 @@ In the collation description above, the Obsidian part is detailed here: [[../REA
 
 
 ### Tech Tools Flow
+
+![[../attachments/Pasted image 20221127184318.png]]
+
+Here is almost everything about me.
+
+### Account Flow
+
+
+
+### Time Flow
