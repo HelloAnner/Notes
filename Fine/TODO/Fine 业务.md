@@ -1,3 +1,3 @@
 - [ ]  目录缓存搜索问题整理一下场景 https://work.fineres.com/browse/BI-114840
 - [ ] 行权限升级整理 https://work.fineres.com/browse/BI-79858 https://work.fineres.com/browse/BI-65300
-- [ ] 
+- [ ] Fine assist 启动流程解析
