@@ -10,7 +10,7 @@
 
 ### Record
 
-[[../../../Fine/Record/Fine record 2022-11-30]]
+[[../../../Fine/Record/2022-11/Fine record 2022-11-30]]
 
 [[../../../Dialy/2022-11-30]]
 

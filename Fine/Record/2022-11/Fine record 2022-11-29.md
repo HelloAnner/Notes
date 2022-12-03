@@ -8,10 +8,10 @@ https://kms.fineres.com/pages/viewpage.action?pageId=595730485
 
 处理了一下LDAP导出为Excel的BUG问题 https://code.fineres.com/users/anner/repos/plugin-decision-ldap-check-tool/commits/7d696325c8accf182b0eeaed59b0cb84c7810a99
 
-![[../../attachments/Pasted image 20221129151437.png]]
+![[../../../attachments/Pasted image 20221129151437.png]]
 https://work.fineres.com/browse/BI-117989
 
-![[../../attachments/Pasted image 20221129183418.png]]
+![[../../../attachments/Pasted image 20221129183418.png]]
 
 
 

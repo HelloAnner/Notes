@@ -14,3 +14,4 @@ CREATE TABLE IF NOT EXISTS `runoob_tbl`(
 select distinct ROLEID,USERID, ROLETYPE, count(*) from FINE_USER_ROLE MIDDLE group by ROLEID, USERID, ROLETYPE
 having count(*) >1
 ```
+

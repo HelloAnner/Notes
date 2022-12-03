@@ -8,5 +8,4 @@
 - [ ] https://github.com/rustlang-cn/rust-algos/tree/main/src/searching
 - [ ] https://github.com/rustlang-cn/rust-algos/tree/main/src/sorting
 - [ ] https://github.com/rustlang-cn/rust-algos/tree/main/src/string
-- [ ] Train 1000 leetcode problems By Rust Code Programing
-- [ ] [[../../../Algorithm/经典设计/LRU 缓存原理和实现]]
+- [x] [[../../../算法/经典设计/LRU 缓存原理和实现]]
