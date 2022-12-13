@@ -1,0 +1,7 @@
+![[../../attachments/Fine 项目管理培训 - Lipei.png]]
+![[../../attachments/Fine 项目管理培训 - Lipei-1.png]]
+![[../../attachments/Fine 项目管理培训 - Lipei-2.png]]
+![[../../attachments/Fine 项目管理培训 - Lipei-3.png]]
+![[../../attachments/Fine 项目管理培训 - Lipei-4.png]]
+![[../../attachments/Fine 项目管理培训 - Lipei-5.png]]
+![[../../attachments/Fine 项目管理培训 - Lipei-6.png]]

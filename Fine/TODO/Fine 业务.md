@@ -4,3 +4,4 @@
 - [ ] com.fr.file.utils.FileLockUtil
 - [ ] fine 集群远程调用原理
 - [x] 脱敏分层思想和现在的逻辑总结 [[../业务/权限/Fine 数据脱敏规则计算]]
+- [ ] com.fr.decision.webservice.bean.authority.UpdatePrivilegeResult
